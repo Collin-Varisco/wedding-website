@@ -12,18 +12,29 @@ app.use(bodyParser.urlencoded({extended: false}));
 const server = require("http").Server(app);
 server.listen(8080, 'localhost');
 
-/*
-let db = new sqlite3.Database('./db/wedding.db', (err) => {
+
+let db = new sqlite3.Database('./db/registry.db', (err) => {
   if (err) {
     return console.error(err.message);
   }
   console.log('Connected to the in-memory SQlite database.');
 });
-*/
+
 
 
 app.get('/', function(req, res) {
-		res.render("index.ejs");
+		var registrySelectSQL = "SELECT * FROM GiftInfo";
+		db.all(registrySelectSQL, function (err, data, fields) {
+			if(err) { throw err }
+			else {
+				res.render("registry.ejs", {title: 'Registry', registryData: data} );
+			}
+		});
+});
+
+
+app.get('/registry', function(req, res) {
+		res.render("registry.ejs");
 });
 
 app.get('/index', function(req, res) {
