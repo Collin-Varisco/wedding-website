@@ -32,6 +32,16 @@ app.get('/', function(req, res) {
 		});
 });
 
+app.get('/confirm', function(req,res){
+	var confirmSQL = "SELECT * FROM PurchaseInfo WHERE GID=" + req.query.id;
+	db.all(confirmSQL, function(err, data){
+		if(err){ throw err }
+		else {
+			res.render('confirm.ejs', {title: 'Confirmation', purchaseData: data});
+		}
+	});
+});
+
 
 app.get('/registry', function(req, res) {
 		res.render("registry.ejs");
