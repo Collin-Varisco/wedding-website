@@ -20,9 +20,13 @@ let db = new sqlite3.Database('./db/registry.db', (err) => {
   console.log('Connected to the in-memory SQlite database.');
 });
 
-
-
+// Home Page
 app.get('/', function(req, res) {
+	res.render("index.ejs");
+});
+
+
+app.get('/registry', function(req, res) {
 		var registrySelectSQL = "SELECT * FROM GiftInfo";
 		db.all(registrySelectSQL, function (err, data, fields) {
 			if(err) { throw err }
@@ -31,6 +35,9 @@ app.get('/', function(req, res) {
 			}
 		});
 });
+
+
+
 
 app.get('/confirm', function(req,res){
 	var confirmSQL = "SELECT * FROM PurchaseInfo WHERE GID=" + req.query.id;
@@ -43,31 +50,27 @@ app.get('/confirm', function(req,res){
 });
 
 
-app.get('/registry', function(req, res) {
-		res.render("registry.ejs");
-});
-
 app.get('/index', function(req, res) {
-		res.render("index.ejs");
+	res.render("index.ejs");
 });
 
 
 app.get('/when-where', function(req, res) {
-		res.render("when-where.ejs");
+	res.render("when-where.ejs");
 });
 
 app.get('/guest', function(req, res) {
-		res.render("guest.ejs");
+	res.render("guest.ejs");
 });
 
 app.get('/gallery', function(req, res) {
-		res.render("gallery.ejs");
+	res.render("gallery.ejs");
 });
 
 app.get('/blog', function(req, res) {
-		res.render("blog.ejs");
+	res.render("blog.ejs");
 });
 
 app.get('/groom-bride', function(req, res) {
-		res.render("groom-bride.ejs");
+	res.render("groom-bride.ejs");
 });
