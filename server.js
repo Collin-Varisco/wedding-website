@@ -27,7 +27,7 @@ app.get('/', function(req, res) {
 
 
 app.get('/registry', function(req, res) {
-		var registrySelectSQL = "SELECT * FROM GiftInfo";
+		var registrySelectSQL = "SELECT * FROM GiftInfo WHERE GiftID NOT IN (SELECT PurchasedGift FROM GiftGivers)";
 		db.all(registrySelectSQL, function (err, data, fields) {
 			if(err) { throw err }
 			else {
@@ -40,7 +40,7 @@ app.get('/registry', function(req, res) {
 
 
 app.get('/confirm', function(req,res){
-	var confirmSQL = "SELECT * FROM PurchaseInfo WHERE GID=" + req.query.id;
+	var confirmSQL = "SELECT * FROM PurchaseInfo, GiftInfo WHERE GID=" + req.query.id + " AND GiftID=" + req.query.id;
 	db.all(confirmSQL, function(err, data){
 		if(err){ throw err }
 		else {
@@ -48,7 +48,6 @@ app.get('/confirm', function(req,res){
 		}
 	});
 });
-
 
 app.get('/index', function(req, res) {
 	res.render("index.ejs");
@@ -74,3 +73,21 @@ app.get('/blog', function(req, res) {
 app.get('/groom-bride', function(req, res) {
 	res.render("groom-bride.ejs");
 });
+
+// Post Method
+app.post('/confirmPurchase', function(req,res){
+	// Insert Name of gift giver and what item they are gifting to the GiftGivers table.
+	const insertGiftGiver = db.prepare("INSERT INTO GiftGivers (GiftGiverName, PurchasedGift) VALUES(?, ?)");
+	insertGiftGiver.run(req.body.PersonName, req.body.giftID);
+	insertGiftGiver.finalize();
+
+	// Load Registry Page With Updated Items
+	var registrySelectSQL = "SELECT * FROM GiftInfo WHERE GiftID NOT IN (SELECT PurchasedGift FROM GiftGivers)";
+	db.all(registrySelectSQL, function (err, data, fields) {
+		if(err) { throw err }
+		else {	res.render("registry.ejs", {title: 'Registry', registryData: data} ); }
+	});
+});
+
+// SQL Statement for returning the Name of the Gift and who purchased it.
+// SELECT GiftGiverName, GiftName FROM GiftInfo, GiftGivers WHERE PurchasedGift = GiftID;
