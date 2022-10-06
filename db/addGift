@@ -1,0 +1,21 @@
+#!/bin/bash
+let GID=$(sqlite3 registry.db "SELECT COUNT(GiftID) FROM GiftInfo")
+let GID++
+
+read -p "Name of the gift?: " name
+read -p "Gift Price?: " price
+read -p "Name of the website?: " website
+read -p "URL?: " url
+
+echo "INSERT INTO GiftInfo \
+	(GiftID, GiftName, GiftPrice) \
+	VALUES($GID, \"$name\", $price);"
+
+sqlite3 registry.db "INSERT INTO GiftInfo (GiftID, GiftName, GiftPrice) \
+	VALUES($GID, \"$name\", $price);"
+
+echo "INSERT INTO PurchaseInfo \
+	(GID, Description, GiftURL) \
+	VALUES($GID, \"$website\", \"$url\");"
+sqlite3 registry.db "INSERT INTO PurchaseInfo (GID, Description, GiftURL) \
+	VALUES($GID, \"$website\", \"$url\");"

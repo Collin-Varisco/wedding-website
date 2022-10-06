@@ -27,7 +27,8 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #F69D9D;
+  /*color: #F69D9D;*/
+  color: #db283e;
   -webkit-transition: 0.5s, ease;
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
@@ -35,7 +36,8 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #F69D9D;
+  /*color: #F69D9D;*/
+  color: #db283e;
 }
 
 p, ul, ol {
@@ -58,17 +60,20 @@ figure {
 
 ::-webkit-selection {
   color: #fcfcfc;
-  background: #F69D9D;
+  /*background: #F69D9D;*/
+  background: #db283e;
 }
 
 ::-moz-selection {
   color: #fcfcfc;
-  background: #F69D9D;
+  /*background: #F69D9D;*/
+  background: #db283e;
 }
 
 ::selection {
   color: #fcfcfc;
-  background: #F69D9D;
+  /*background: #F69D9D;*/
+  background: #db283e;
 }
 
 #fh5co-header {
@@ -89,7 +94,8 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #F69D9D;
+  /*background: #F69D9D;*/
+  background: #db283e;
 }
 
 .header-top .fh5co-link a {
@@ -265,11 +271,13 @@ figure {
 }
 
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #F69D9D !important;
+  /*color: #F69D9D !important;*/
+  color: #db283e !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #F69D9D;
+  /*color: #F69D9D; */
+  color: #db283e;
 }
 
 .sf-menu li,
@@ -293,7 +301,8 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #F69D9D;
+  /*color: #F69D9D;*/
+  color: #db283e;
 }
 
 .sf-menu ul li:hover,
@@ -378,11 +387,13 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #F69D9D;
+  /*color: #F69D9D;*/
+  color: #db283e;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #F69D9D !important;
+  /*color: #F69D9D !important;*/
+  color: #db283e !important;
 }
 
 #fh5co-menu-wrap {
@@ -398,7 +409,8 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #F69D9D !important;
+  /* color: #F69D9D !important; */
+  color: #db283e !important;
 }
 
 #fh5co-primary-menu > li > .sf-with-ul:after {
@@ -524,7 +536,8 @@ figure {
 }
 
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #F69D9D !important;
+  /* color: #F69D9D !important; */
+  color: #db283e;
 }
 
 #fh5co-couple,
@@ -566,7 +579,8 @@ figure {
   font-size: 50px;
   font-weight: 300;
   position: relative;
-  color: #F69D9D;
+  /*color: #F69D9D;*/
+  color: #db283e;
 }
 
 .heading-section p {
@@ -594,7 +608,8 @@ figure {
 #fh5co-couple .amp-center {
   font-size: 60px;
   margin-top: 100%;
-  color: #f69d9d;
+  /* color: #f69d9d; */
+  color: #db283e;
 }
 
 @media screen and (max-width: 768px) {
@@ -605,12 +620,13 @@ figure {
 
 #fh5co-countdown {
   background: #F69D9D;
+  /*background: #fff;*/
 }
 
 #fh5co-countdown .countdown {
   margin-bottom: 0;
   font-size: 80px;
-  color: #fff;
+  color: #fff;;
 }
 
 #fh5co-countdown .countdown span {
@@ -731,7 +747,8 @@ figure {
 #fh5co-started .btn-block {
   height: 54px;
   border: none !important;
-  background: #F69D9D;
+  /*background: #F69D9D;*/
+  background: #db283e;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -854,7 +871,8 @@ figure {
 }
 
 .fh5co-blog .blog-text span.comment a i {
-  color: #F69D9D;
+  /*color: #F69D9D;*/
+  color: #db283e;
   padding-left: 4px;
 }
 
@@ -929,7 +947,8 @@ figure {
 }
 
 .btn.btn-primary {
-  background: #F69D9D;
+  /*background: #F69D9D;*/
+  background: #db283e;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
@@ -937,7 +956,8 @@ figure {
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #F69D9D;
+  /*background: #F69D9D;*/
+  background: #db283e;
   color: #fff !important;
 }
 
@@ -1025,7 +1045,8 @@ figure {
 }
 
 #offcanvas-menu ul li a:hover {
-  color: #F69D9D;
+  /*color: #F69D9D;*/
+  color: #db283e;
 }
 
 #offcanvas-menu ul li > .fh5co-sub-menu {
@@ -1034,7 +1055,8 @@ figure {
 }
 
 #offcanvas-menu ul li.active > a {
-  color: #F69D9D;
+  /*color: #F69D9D;*/
+  color: #db283e;
 }
 
 #offcanvas-menu ul .fh5co-sub-menu {
