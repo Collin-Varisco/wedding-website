@@ -1,0 +1,1675 @@
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: Cannot find module '/home/crisco/node_modules/sqlite3/lib/binding/napi-v3-linux-x64/node_sqlite3.node'
+Require stack:
+- /home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js
+- /home/crisco/node_modules/sqlite3/lib/sqlite3.js
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3-binding.js',
+    '/home/crisco/node_modules/sqlite3/lib/sqlite3.js',
+    '/home/crisco/index.js'
+  ]
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1310:16)
+    at listenInCluster (net.js:1358:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1495:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:68:8) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 8080
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error: Cannot find module 'mysql2'
+Require stack:
+- /home/crisco/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/crisco/index.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/crisco/index.js' ]
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:530:11)
+    at ServerResponse.header (/home/crisco/node_modules/express/lib/response.js:776:10)
+    at ServerResponse.location (/home/crisco/node_modules/express/lib/response.js:893:15)
+    at ServerResponse.redirect (/home/crisco/node_modules/express/lib/response.js:931:18)
+    at /home/crisco/index.js:354:6
+    at Layer.handle [as handle_request] (/home/crisco/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/crisco/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/crisco/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/crisco/node_modules/express/lib/router/layer.js:95:5)
+    at /home/crisco/node_modules/express/lib/router/index.js:281:22

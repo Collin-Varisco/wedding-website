@@ -1,0 +1,52 @@
+<html>
+  <link rel="stylesheet" href="/css/style.css" />
+  <body>
+      <div class="schedule-panel">
+      <h2>Schedule a Job</h2>
+      <form action="/add" method="POST">
+        <fieldset>
+        <h3>Closest Franchise Location</h1>
+        <select name="Franchise">
+          <option value="1">Lafayette</option>
+          <option value="2">Baton Rouge</option>
+          <option value="3">New Orleans</option>
+        </select>
+        <h3>Contact Information</h3>
+        <label for="ClientFname">First Name</label>
+        <input type="text" name="ClientFname" id="ClientFname" required>
+        <label for="ClientLname">Last Name</label>
+        <input type="text" name="ClientLname" id="ClientLname" required>
+        <label for="ClientEmail">Email</label>
+        <input type="text" name="ClientEmail" id="ClientEmail" required>
+        <label for="PhoneNumber">Phone Number</label>
+        <input type="text" name="PhoneNumber" id="PhoneNumber" required>  
+        <h3>Locations (Both Addresses Must Be In Louisiana)</h3>
+        <label for="OriginalCity">Moving From (City)</label>
+        <input type="text" name="OriginalCity" id="OriginalCity" required>
+        <label for="OriginalStreet">Moving From (Street Address)</label>
+        <input type="text" name="OriginalStreet" id="OriginalStreet" required>
+        <label for="DestinationCity">Moving To (City)</label>
+        <input type="text" name="DestinationCity" id="DestinationCity" required>
+        <label for="DestinationStreet">Moving To (Street Address)</label>
+        <input type="text" name="DestinationStreet" id="DestinationStreet" required>
+        <h3>Job Date</h3>
+        <label for="MoveMonth">Month (1 - 12)</label>
+        <input type="number" step="1" name="MoveMonth" required>
+        <label for="MoveDay">Day</label>
+        <input type="number" step="1" name="MoveDay" required>
+        <label for="MoveYear">Year</label>
+        <input type="number" step="1" name="MoveYear" required><br><br>
+        <input type="submit" name="submit" value="Submit">
+        </fieldset>
+      </form>
+    </div>
+   
+    <div class="conflict-container">
+    <h2 id="error">Conflicts</h2>
+    <div class="conflicts-panel">
+    <p id="error"><%=employeeData.error %></date>
+
+    </div>
+    </div>
+  </body>
+</html>

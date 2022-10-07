@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="/css/style.css" />
+  <title>Employees</title>
+</head>
+<body>
+    <button class="home-button" onclick="location.href='/'">Home</button>
+    <div class="options-panel">
+    <form action="/sortEmployees" method="POST">
+        <fieldset>
+          <h2> Sort </h2>
+          <h3 style="text-align: left;">Positions</h3>
+          <div class="d-flex flex-row align-items-center">
+            <input class="input-checkbox" type="checkbox" id="movers" name="movers">
+            <label for="movers">Mover</label><br>
+          </div>
+          <div class="d-flex flex-row align-items-center">
+            <input class="input-checkbox" type="checkbox" id="support" name"support">
+            <label for="cs">Customer Support</label><br>
+          </div>
+          <div class="d-flex flex-row align-items-center">
+            <input class="input-checkbox" type="checkbox" id="managers" name="managers">
+            <label for="managers">Manager</label><br>
+          </div>
+          <br>
+          <br>
+          <h3 style="text-align: left;">Franchises</h3>
+          <div class="d-flex flex-row align-items-center">
+          <input class="input-checkbox" type="checkbox" name="lafayette">
+          <label for="laf">Lafayette</label><br>
+          </div>
+          <div class="d-flex flex-row align-items-center">
+          <input class="input-checkbox" type="checkbox" name="batonrouge">
+          <label for="br">Baton Rouge</label><br>
+          </div>
+          <div class="d-flex flex-row align-items-center">
+          <input class="input-checkbox" type="checkbox" name="neworleans">
+          <label for="nola">New Orleans</label><br>
+          </div>
+          <br>
+          <input type="submit" style="float: left;" name="submit" value="Submit">
+        </fieldset>
+    </form>
+    </div>
+				<div class="addLink">
+						<a href="/employees/add">Add Employee</a>
+				</div>
+        <h2 class="textAlignC">Employee Information</h2>
+        <table class="center-table" style="border-left: 1px solid white;" border="1">
+            <tr>
+                <th>Employee ID#</th>
+                <th>Full Name</th>
+                <th>Position</th>
+                <th>Franchise</th>
+                <th>Modify</th>
+            </tr>
+
+            <%
+            if(employeeData.length!=0){
+            var i=1;
+            employeeData.forEach(function(data){
+            %>
+            <tr>
+
+                <td><%=data.EmployeeID %></td>
+                <td><%=data.Fname %> <%=data.Lname %></td>
+                <td><%=data.Position %></td>
+                <td><%=data.FranchiseID %></td>
+                <td><a href="/edit/employees?id=<%=data.EmployeeID%>">Edit</a><br>
+                <a href="/delete_employee?id=<%=data.EmployeeID%>">Delete</a></td>
+            </tr>
+            <%  i++; }) %>
+            <% } else{ %>
+                <tr>
+                    <td colspan="7">No Data</td>
+                </tr>
+            <% } %>
+        </table>
+</body>
+</html>
