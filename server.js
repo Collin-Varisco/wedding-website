@@ -27,26 +27,38 @@ app.get('/', function(req, res) {
 
 
 app.get('/registry', function(req, res) {
-		var registrySelectSQL = "SELECT * FROM GiftInfo WHERE GiftID NOT IN (SELECT PurchasedGift FROM GiftGivers)";
-		db.all(registrySelectSQL, function (err, data, fields) {
-			if(err) { throw err }
-			else {
-				res.render("registry.ejs", {title: 'Registry', registryData: data} );
-			}
-		});
+		try {
+			var registrySelectSQL = "SELECT * FROM GiftInfo WHERE GiftID NOT IN (SELECT PurchasedGift FROM GiftGivers)";
+			db.all(registrySelectSQL, function (err, data, fields) {
+				if(err) { throw err }
+				else {
+					res.render("registry.ejs", {title: 'Registry', registryData: data} );
+				}
+			});
+		} catch (e) {
+			console.log(e);
+		}
 });
 
 
 
 
 app.get('/confirm', function(req,res){
-	var confirmSQL = "SELECT * FROM PurchaseInfo, GiftInfo WHERE GID=" + req.query.id + " AND GiftID=" + req.query.id;
-	db.all(confirmSQL, function(err, data){
-		if(err){ throw err }
-		else {
-			res.render('confirm.ejs', {title: 'Confirmation', purchaseData: data});
-		}
-	});
+	try {
+		var confirmSQL = "SELECT * FROM PurchaseInfo, GiftInfo WHERE GID=" + req.query.id + " AND GiftID=" + req.query.id;
+		db.all(confirmSQL, function(err, data){
+			if(err)
+			{ 
+			    console.log(err);
+			}
+			else 
+			{
+			    res.render('confirm.ejs', {title: 'Confirmation', purchaseData: data});
+			}
+		});
+	} catch (e) {
+		console.log(e);
+	}
 });
 
 app.get('/index', function(req, res) {
@@ -76,17 +88,24 @@ app.get('/groom-bride', function(req, res) {
 
 // Post Method
 app.post('/confirmPurchase', function(req,res){
-	// Insert Name of gift giver and what item they are gifting to the GiftGivers table.
-	const insertGiftGiver = db.prepare("INSERT INTO GiftGivers (GiftGiverName, PurchasedGift) VALUES(?, ?)");
-	insertGiftGiver.run(req.body.PersonName, req.body.giftID);
-	insertGiftGiver.finalize();
-
-	// Load Registry Page With Updated Items
-	var registrySelectSQL = "SELECT * FROM GiftInfo WHERE GiftID NOT IN (SELECT PurchasedGift FROM GiftGivers)";
-	db.all(registrySelectSQL, function (err, data, fields) {
-		if(err) { throw err }
-		else {	res.render("registry.ejs", {title: 'Registry', registryData: data} ); }
-	});
+	try {
+		// check if the gift is already purchased
+		var checkSQL = "SELECT COUNT(*) FROM GiftGivers WHERE PurchasedGift=" + req.body.giftID;
+		db.all(checkSQL, function(err, data){
+			if(err){ console.log(err); }
+			else {
+				if(data[0]['COUNT(*)'] == 1) {
+					res.send("Gift already purchased");
+				} else {
+					// Insert Name of gift giver and what item they are gifting to the GiftGivers table.
+					const insertGiftGiver = db.prepare("INSERT INTO GiftGivers (GiftGiverName, PurchasedGift) VALUES(?, ?)");
+					insertGiftGiver.run(req.body.PersonName, req.body.giftID);
+					insertGiftGiver.finalize();
+					res.send('<head><link rel="stylesheet" href="css/style.css"></head><body><h1>Thank you!</h1></body>');
+				}
+			}
+		});
+	} catch (e) { console.log(e); }
 });
 
 // SQL Statement for returning the Name of the Gift and who purchased it.
