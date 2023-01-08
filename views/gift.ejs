@@ -1,9 +1,10 @@
 <!DOCTYPE html>
- <html class="no-js">
+<html class="no-js"> 
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Registry</title>
+
 	<link rel="shortcut icon" href="favicon.ico">
 	<link href="https://fonts.googleapis.com/css?family=Montez" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
@@ -26,14 +27,13 @@
 				<div class="nav-header">
 					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></a>
 					<h1 id="fh5co-logo"><a href="index">C+E</a></h1>
-					<!-- START #fh5co-menu-wrap -->
 					<nav id="fh5co-menu-wrap" role="navigation">
 						<ul class="sf-menu" id="fh5co-primary-menu">
 							<li><a href="index" ></a></li>
 							<li><a href="index" >Home</a></li>
 							<li><a href="when-where">When &amp; Where</a></li>
 							<li><a href="hotels">Hotels</a></li>
-							<li class="active"><a href="Registry">Registry</a></li>
+							<li class="active"><a href="registry">Registry</a></li>
 							<li><a href="gallery">Gallery</a></li>
 							<!--<li><a href="guest">Wedding Party</a></li>-->
 						</ul>
@@ -42,35 +42,38 @@
 			</div>
 		</header>
 
-		<!-- end:header-top -->
-
-
 		<div id="fh5co-guest">
 			<div class="container">
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center heading-section">
-						<h2>Registry</h2>
-						<p style="color: black;">Click a gift link for more information.</p>
-						<table style="width: 70%; margin-left: auto; margin-right: auto;" border="1">
-							<tr>
-								<th><h2 style="margin-top: 10px; margin-bottom: 10px; text-align: center;">Gift</h2></th>
-								<th><h2 style="margin-top: 10px; margin-bottom: 10px; text-align: center;">Price</h2></th>
-							</tr>
-							<%
-								if(registryData.length != 0){
-									registryData.forEach(function(data){
-							%>
-							<tr>
-								<td><u><a href="/confirm?id=<%=data.GiftID %>"><%=data.GiftName %></a></u></td>
-								<td><%=data.GiftPrice %>$</td>
-							</tr>
-						<% })} %>
-						</table>
-						<br>
-						<div style="width: 70%; margin-left: auto; margin-right: auto; border: 1px solid black;">
-							<h3>Can't Find The Item That You Confirmed To Gift?</h3>
-							<a href="/confirmedGifts">Check Here</a>
+						<div style="border: 2px solid Black;">
+						<h2 style="margin-top: 5%;">Gift and Shipping Information</h2>
+						<%
+							if(purchaseData.length != 0){
+								purchaseData.forEach(function(data){
+						%>
+						<div style="margin-top: 5%;">
+							<h3>Gift: <%=data.GiftName%></h3>
+							<h3>Price (May have changed): <%=data.GiftPrice%>$</h3>
 						</div>
+						<% })} %>
+						<p style="color: black;">Shipping Information: 211 Republic Ave Unit 315 Lafayette, La 70508</p>
+						<div style="margin-top: 5%; margin-bottom: 5%">
+							<table style="width: 40%; margin-left: auto; margin-top: 40px; margin-right: auto;" border="1">
+								<tr>
+									<th><h2 style="margin-top: 10px; margin-bottom: 10px; text-align: center;">Links</h2></th>
+								</tr>
+								<%
+									if(purchaseData.length != 0){
+										purchaseData.forEach(function(data){
+								%>
+								<tr>
+									<td><u><a href="<%=data.GiftURL %>"><%=data.Description %></a></u></td>
+								</tr>			
+							<% })} %>
+							</table>
+						</div>
+					</div>
 					</div>
 				</div>
 			</div>

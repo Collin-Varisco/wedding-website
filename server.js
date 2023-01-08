@@ -103,13 +103,48 @@ app.post('/confirmPurchase', function(req,res){
 				} else {
 					// Insert Name of gift giver and what item they are gifting to the GiftGivers table.
 					const insertGiftGiver = db.prepare("INSERT INTO GiftGivers (GiftGiverName, PurchasedGift) VALUES(?, ?)");
+          console.log(req.body.PersonName + " | " + req.body.giftID);
 					insertGiftGiver.run(req.body.PersonName, req.body.giftID);
 					insertGiftGiver.finalize();
-					res.send('<head><link rel="stylesheet" href="css/style.css"></head><body><h1>Thank you!</h1></body>');
+					res.send('<head><link rel="stylesheet" href="css/style.css"></head><body><h2 style="text-align: center;">Thank you!</h2><br><div style="text-align: center;"><a href="/gift?id=' + req.body.giftID + '">Go Back To Item Information Page To Purchase</a></div></body>');
 				}
 			}
 		});
 	} catch (e) { console.log(e); }
+});
+
+
+app.get('/gift', function(req,res){
+	try {
+		var confirmSQL = "SELECT * FROM PurchaseInfo, GiftInfo WHERE GID=" + req.query.id + " AND GiftID=" + req.query.id;
+		db.all(confirmSQL, function(err, data){
+			if(err)
+			{ 
+			    console.log(err);
+			}
+			else 
+			{
+			    res.render('gift.ejs', {title: 'Confirmation', purchaseData: data});
+			}
+		});
+	} catch (e) {
+		console.log(e);
+	}
+});
+
+
+app.get('/confirmedGifts', function(req, res) {
+		try {
+			var registrySelectSQL = "SELECT * FROM GiftInfo WHERE GiftID IN (SELECT PurchasedGift FROM GiftGivers)";
+			db.all(registrySelectSQL, function (err, data, fields) {
+				if(err) { throw err }
+				else {
+					res.render("confirmedGifts.ejs", {title: 'Registry', registryData: data} );
+				}
+			});
+		} catch (e) {
+			console.log(e);
+		}
 });
 
 // SQL Statement for returning the Name of the Gift and who purchased it.
