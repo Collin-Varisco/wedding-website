@@ -70,6 +70,10 @@ app.get('/when-where', function(req, res) {
 	res.render("when-where.ejs");
 });
 
+app.get('/hotels', function(req, res) {
+  res.render("hotels.ejs");
+});
+
 app.get('/guest', function(req, res) {
 	res.render("guest.ejs");
 });
