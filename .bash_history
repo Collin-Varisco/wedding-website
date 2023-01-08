@@ -416,3 +416,17 @@ cd views
 ls
 vim index.ejs 
 exit
+ls
+cd /home/crisco
+ls
+git branch
+clear
+ls -al
+nvim .profile 
+vim .profile
+ls
+ls -al
+l
+git add .
+su
+exit
