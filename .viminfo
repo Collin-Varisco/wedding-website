@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1651174749,,"q"
+|2,0,1673196454,,"q"
 :w
 |2,0,1651174620,,"w"
 :q!
@@ -136,38 +136,56 @@ $
 |3,1,36,0,1,0,1651174580,"efefef"
 
 # File marks:
-'0  5  25  ~/views/index.ejs
-|4,48,5,25,1651174749,"~/views/index.ejs"
-'1  52  2  /etc/nginx/sites-enabled/default
-|4,49,52,2,1651174253,"/etc/nginx/sites-enabled/default"
-'2  1  0  /etc/nginx/nginx.conf
-|4,50,1,0,1651174030,"/etc/nginx/nginx.conf"
-'3  18  0  /var/www/html/index.nginx-debian.html
-|4,51,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
-'4  44  61  /etc/nginx/sites-enabled/default
-|4,52,44,61,1651173684,"/etc/nginx/sites-enabled/default"
+'0  3  0  ~/.profile
+|4,48,3,0,1673196454,"~/.profile"
+'1  5  25  ~/views/index.ejs
+|4,49,5,25,1651174749,"~/views/index.ejs"
+'2  52  2  /etc/nginx/sites-enabled/default
+|4,50,52,2,1651174253,"/etc/nginx/sites-enabled/default"
+'3  1  0  /etc/nginx/nginx.conf
+|4,51,1,0,1651174030,"/etc/nginx/nginx.conf"
+'4  18  0  /var/www/html/index.nginx-debian.html
+|4,52,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
 '5  44  61  /etc/nginx/sites-enabled/default
 |4,53,44,61,1651173684,"/etc/nginx/sites-enabled/default"
-'6  80  0  /etc/nginx/nginx.conf
-|4,54,80,0,1651173596,"/etc/nginx/nginx.conf"
+'6  44  61  /etc/nginx/sites-enabled/default
+|4,54,44,61,1651173684,"/etc/nginx/sites-enabled/default"
 '7  80  0  /etc/nginx/nginx.conf
 |4,55,80,0,1651173596,"/etc/nginx/nginx.conf"
-'8  1  0  ~/.git/HEAD
-|4,56,1,0,1650990846,"~/.git/HEAD"
-'9  19  0  ~/index.js
-|4,57,19,0,1650990233,"~/index.js"
+'8  80  0  /etc/nginx/nginx.conf
+|4,56,80,0,1651173596,"/etc/nginx/nginx.conf"
+'9  1  0  ~/.git/HEAD
+|4,57,1,0,1650990846,"~/.git/HEAD"
 
 # Jumplist (newest first):
+-'  3  0  ~/.profile
+|4,39,3,0,1673196454,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1673196441,"~/.profile"
+-'  5  25  ~/views/index.ejs
+|4,39,5,25,1651174749,"~/views/index.ejs"
 -'  5  25  ~/views/index.ejs
 |4,39,5,25,1651174749,"~/views/index.ejs"
 -'  7  9  ~/views/index.ejs
 |4,39,7,9,1651174617,"~/views/index.ejs"
+-'  7  9  ~/views/index.ejs
+|4,39,7,9,1651174617,"~/views/index.ejs"
+-'  1  0  ~/views/index.ejs
+|4,39,1,0,1651174399,"~/views/index.ejs"
 -'  1  0  ~/views/index.ejs
 |4,39,1,0,1651174399,"~/views/index.ejs"
 -'  52  2  /etc/nginx/sites-enabled/default
 |4,39,52,2,1651174253,"/etc/nginx/sites-enabled/default"
 -'  52  2  /etc/nginx/sites-enabled/default
 |4,39,52,2,1651174253,"/etc/nginx/sites-enabled/default"
+-'  52  2  /etc/nginx/sites-enabled/default
+|4,39,52,2,1651174253,"/etc/nginx/sites-enabled/default"
+-'  52  2  /etc/nginx/sites-enabled/default
+|4,39,52,2,1651174253,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651174037,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651174037,"/etc/nginx/sites-enabled/default"
 -'  44  61  /etc/nginx/sites-enabled/default
 |4,39,44,61,1651174037,"/etc/nginx/sites-enabled/default"
 -'  44  61  /etc/nginx/sites-enabled/default
@@ -180,6 +198,14 @@ $
 |4,39,1,0,1651174030,"/etc/nginx/nginx.conf"
 -'  1  0  /etc/nginx/nginx.conf
 |4,39,1,0,1651174030,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1651174030,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1651174030,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1651174030,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1651174030,"/etc/nginx/nginx.conf"
 -'  83  0  /etc/nginx/nginx.conf
 |4,39,83,0,1651174027,"/etc/nginx/nginx.conf"
 -'  83  0  /etc/nginx/nginx.conf
@@ -188,6 +214,22 @@ $
 |4,39,83,0,1651174027,"/etc/nginx/nginx.conf"
 -'  83  0  /etc/nginx/nginx.conf
 |4,39,83,0,1651174027,"/etc/nginx/nginx.conf"
+-'  83  0  /etc/nginx/nginx.conf
+|4,39,83,0,1651174027,"/etc/nginx/nginx.conf"
+-'  83  0  /etc/nginx/nginx.conf
+|4,39,83,0,1651174027,"/etc/nginx/nginx.conf"
+-'  83  0  /etc/nginx/nginx.conf
+|4,39,83,0,1651174027,"/etc/nginx/nginx.conf"
+-'  83  0  /etc/nginx/nginx.conf
+|4,39,83,0,1651174027,"/etc/nginx/nginx.conf"
+-'  80  0  /etc/nginx/nginx.conf
+|4,39,80,0,1651174002,"/etc/nginx/nginx.conf"
+-'  80  0  /etc/nginx/nginx.conf
+|4,39,80,0,1651174002,"/etc/nginx/nginx.conf"
+-'  80  0  /etc/nginx/nginx.conf
+|4,39,80,0,1651174002,"/etc/nginx/nginx.conf"
+-'  80  0  /etc/nginx/nginx.conf
+|4,39,80,0,1651174002,"/etc/nginx/nginx.conf"
 -'  80  0  /etc/nginx/nginx.conf
 |4,39,80,0,1651174002,"/etc/nginx/nginx.conf"
 -'  80  0  /etc/nginx/nginx.conf
@@ -212,6 +254,22 @@ $
 |4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
 -'  18  0  /var/www/html/index.nginx-debian.html
 |4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
+-'  18  0  /var/www/html/index.nginx-debian.html
+|4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
+-'  18  0  /var/www/html/index.nginx-debian.html
+|4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
+-'  18  0  /var/www/html/index.nginx-debian.html
+|4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
+-'  18  0  /var/www/html/index.nginx-debian.html
+|4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
+-'  18  0  /var/www/html/index.nginx-debian.html
+|4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
+-'  18  0  /var/www/html/index.nginx-debian.html
+|4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
+-'  18  0  /var/www/html/index.nginx-debian.html
+|4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
+-'  18  0  /var/www/html/index.nginx-debian.html
+|4,39,18,0,1651173992,"/var/www/html/index.nginx-debian.html"
 -'  1  0  /var/www/html/index.nginx-debian.html
 |4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
 -'  1  0  /var/www/html/index.nginx-debian.html
@@ -228,6 +286,38 @@ $
 |4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
 -'  1  0  /var/www/html/index.nginx-debian.html
 |4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  1  0  /var/www/html/index.nginx-debian.html
+|4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  1  0  /var/www/html/index.nginx-debian.html
+|4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  1  0  /var/www/html/index.nginx-debian.html
+|4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  1  0  /var/www/html/index.nginx-debian.html
+|4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  1  0  /var/www/html/index.nginx-debian.html
+|4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  1  0  /var/www/html/index.nginx-debian.html
+|4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  1  0  /var/www/html/index.nginx-debian.html
+|4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  1  0  /var/www/html/index.nginx-debian.html
+|4,39,1,0,1651173989,"/var/www/html/index.nginx-debian.html"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
+-'  44  61  /etc/nginx/sites-enabled/default
+|4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
 -'  44  61  /etc/nginx/sites-enabled/default
 |4,39,44,61,1651173684,"/etc/nginx/sites-enabled/default"
 -'  44  61  /etc/nginx/sites-enabled/default
@@ -264,102 +354,16 @@ $
 |4,39,1,0,1651173631,"/etc/nginx/sites-enabled/default"
 -'  1  0  /etc/nginx/sites-enabled/default
 |4,39,1,0,1651173631,"/etc/nginx/sites-enabled/default"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  80  0  /etc/nginx/nginx.conf
-|4,39,80,0,1651173596,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1651173579,"/etc/nginx/nginx.conf"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
--'  1  0  ~/.git/HEAD
-|4,39,1,0,1650990846,"~/.git/HEAD"
+-'  1  0  /etc/nginx/sites-enabled/default
+|4,39,1,0,1651173631,"/etc/nginx/sites-enabled/default"
+-'  1  0  /etc/nginx/sites-enabled/default
+|4,39,1,0,1651173631,"/etc/nginx/sites-enabled/default"
 
 # History of marks within files (newest to oldest):
+
+> ~/.profile
+	*	1673196448	0
+	"	3	0
 
 > ~/views/index.ejs
 	*	1651174626	0
