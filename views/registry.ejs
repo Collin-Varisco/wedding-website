@@ -49,28 +49,8 @@
 			<div class="container">
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center heading-section">
-						<h2>Registry</h2>
-						<p style="color: black;">Click a gift link for more information.</p>
-						<table style="width: 70%; margin-left: auto; margin-right: auto;" border="1">
-							<tr>
-								<th><h2 style="margin-top: 10px; margin-bottom: 10px; text-align: center;">Gift</h2></th>
-								<th><h2 style="margin-top: 10px; margin-bottom: 10px; text-align: center;">Price</h2></th>
-							</tr>
-							<%
-								if(registryData.length != 0){
-									registryData.forEach(function(data){
-							%>
-							<tr>
-								<td><u><a href="/confirm?id=<%=data.GiftID %>"><%=data.GiftName %></a></u></td>
-								<td><%=data.GiftPrice %>$</td>
-							</tr>
-						<% })} %>
-						</table>
-						<br>
-						<div style="width: 70%; margin-left: auto; margin-right: auto; border: 1px solid black;">
-							<h3>Can't Find The Item That You Confirmed To Gift?</h3>
-							<a href="/confirmedGifts">Check Here</a>
-						</div>
+						<a class="zola-registry-embed" href="www.zola.com/wedding/collinandelise" data-registry-key="collinandelise">Our Wedding Registry</a><script>!function(e,t,n){var s,a=e.getElementsByTagName(t)[0];e.getElementById(n)||(s=e.createElement(t),s.id=n,s.async=!0,s.src="https://widget.zola.com/js/widget.js",a.parentNode.insertBefore(s,a))}(document,"script","zola-wjs");</script>
+					</div>
 					</div>
 				</div>
 			</div>
